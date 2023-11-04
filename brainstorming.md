@@ -2,13 +2,12 @@ Mobile App Dev - App Brainstorming
 ===
 
 ## New App Ideas - List
--NBA API
-    shows current stats and players, but the api doesn't have images
--food api to show recipes by searching food
--pokemon API showing differnet types of pokemon
--dog and cat Api to show different breeds of pets
--car api showing cars and their stats
--creating chatbot using a text genrating api
+*NBA API shows current stats and players, but the api doesn't have images
+*food api to show recipes by searching food
+*pokemon API showing differnet types of pokemon
+*dog and cat Api to show different breeds of pets
+*car api showing cars and their stats
+*creating chatbot using a text genrating api
 
 ### App Evaluation
 
